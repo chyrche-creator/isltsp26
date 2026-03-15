@@ -4,7 +4,7 @@
   
   Solution 1: Make sure you put sudo in front of command
   
-  ![screenshot]("C:\Users\chyrc\Pictures\Screenshots\5.png")
+  ![image_alt]("5.png")
 
   
   Solution 2: Install unzip command using `sudo apt install unzip`
