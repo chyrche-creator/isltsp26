@@ -5,13 +5,13 @@
   Solution 1: Make sure you put sudo in front of command
   
   
-  <img width="460" height="35" alt="1" src="https://github.com/user-attachments/assets/244df87e-7a7d-47d1-95f8-bfef23dd104d" />
+
 
   
   Solution 2: Install unzip command using `sudo apt install unzip`
   
 
-<img width="460" height="58" alt="2" src="https://github.com/user-attachments/assets/3d31609d-7e3c-4753-8067-6ca701c97a7e" />
+
 
 ---
 
