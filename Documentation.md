@@ -4,12 +4,12 @@
   
   Solution 1: Make sure you put sudo in front of command
   
-  ![image_alt]((https://github.com/chyrche-creator/isltsp26/blob/main/5.png))
+  ![image_alt](https://github.com/chyrche-creator/isltsp26/blob/eb7e6611c1ab87232e147e3a1d00f02f4c510dc4/5.png)
 
   
   Solution 2: Install unzip command using `sudo apt install unzip`
   
-
+![image_alt](https://github.com/chyrche-creator/isltsp26/blob/eb7e6611c1ab87232e147e3a1d00f02f4c510dc4/6.png)
 
 
 ---
