@@ -4,7 +4,7 @@
   
   Solution 1: Make sure you put sudo in front of command
   
-  ![image_alt]("5.png")
+  ![image_alt]((https://github.com/chyrche-creator/isltsp26/blob/main/5.png))
 
   
   Solution 2: Install unzip command using `sudo apt install unzip`
